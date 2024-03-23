@@ -1,0 +1,23 @@
+{
+  "name": "owais_10_calculator_simple",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "chalk": "^5.3.0",
+    "inquirer": "^8.2.6",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
